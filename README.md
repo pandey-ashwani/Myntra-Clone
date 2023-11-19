@@ -1,2 +1,2 @@
-# Myntra-Clone
-This is  my first project i.e. Myntra_Clone using HTML and CSS
+# PROJECT USING HTML & CSS
+This is  my first project using HTML and CSS
